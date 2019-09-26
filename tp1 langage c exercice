@@ -1,0 +1,19 @@
+#include <stdio.h>
+int main (){
+int a,b,min;
+printf("svp donner deux nombre ");
+scanf("%d%d",&a,&b);
+min=a<=b? a:b;
+printf("le min est %d",min);
+return 1;
+
+}#include <stdio.h>
+int main (){
+int a,b,min;
+printf("svp donner deux nombre ");
+scanf("%d%d",&a,&b);
+min=a<=b? a:b;
+printf("le min est %d",min);
+return 1;
+
+}
